@@ -16,6 +16,10 @@ We need to not only build a model that minimizes error, but also a model that al
 
 
 ### 3 Feature selection:
-The predictor variable is not available in the dataset. However we can define churn for a user if a user has not been active for the last 30 days.
-We will compare the churn vs non churn users with various features.
-**
+The predictor variable is not available in the dataset. However for a user we can define churn if that user has not been active for the last 30 days.
+#### a. Phone type:
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/10040565/22271300/60e14cb6-e259-11e6-9d48-d175b13dbae4.png" width="400"/>
+</p>
+
+As per the chart, **a high percentage of Android users have churned.** The company might want to look at the Android app to figure out why Android users are not as active as Iphone users.
