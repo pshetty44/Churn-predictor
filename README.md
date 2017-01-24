@@ -33,14 +33,14 @@ As per the chart, **a high percentage of Android users have churned.** The compa
 
 #### c. Luxury car user:
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/22271299/60dcf594-e259-11e6-8a96-1242a026bf57.png" width="400"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/22272225/7192b93c-e25e-11e6-8160-ad82426dbdd3.png" width="400"/>
 </p>
 
-** Luxury car users are more active(less churn) than regular car users.**
+**Luxury car users are more active(less churn) than regular car users.**
 
 #### d. Churn rate by city:
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/10040565/22271298/60dc81e0-e259-11e6-8f7c-587b7d9a4eba.png" width="400"/>
 </p>
 
-** King's Landing City has the highest ratio of active users compared to any other city.**
+**King's Landing City has the highest ratio of active users compared to any other city.**
