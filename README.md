@@ -1,5 +1,4 @@
-#### *Company information and data has not been disclosed. However the code for this
-project including exploratory analysis and final recommendations for the company are included.*
+#### *Company information and data has not been disclosed. However the code for this project including exploratory analysis and final recommendations for the company are included.*
 
 ### 1 Motivation:
 A ride-sharing company is interested in predicting rider retention. To help explore this question, the company has provided a sample dataset of a cohort of users who signed up for an account.
