@@ -23,3 +23,24 @@ The predictor variable is not available in the dataset. However for a user we ca
 </p>
 
 As per the chart, **a high percentage of Android users have churned.** The company might want to look at the Android app to figure out why Android users are not as active as Iphone users.
+
+#### b. First 30 days:
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/10040565/22271301/60e56486-e259-11e6-9d30-d23144ce0cb7.png" width="400"/>
+</p>
+
+**On average, active users made 3.3 trips in the first month, compared to 1.65 trips for a non active user.** We can use this feature to predict if a user will churn or not in the future.
+
+#### c. Luxury car user:
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/10040565/22271299/60dcf594-e259-11e6-8a96-1242a026bf57.png" width="400"/>
+</p>
+
+** Luxury car users are more active(less churn) than regular car users.**
+
+#### d. Churn rate by city:
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/10040565/22271298/60dc81e0-e259-11e6-8f7c-587b7d9a4eba.png" width="400"/>
+</p>
+
+** King's Landing City has the highest ratio of active users compared to any other city.**
