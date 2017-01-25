@@ -60,8 +60,8 @@ Naive Bayes             | 0.65 | 0.70 | 0.76
 
  **Random Forest and SVM(Support Vector Machines) have the best result. We chose Ramdomforest since it is faster and will perform better with larger datasets.**
  The parameters of randomforest algorithm was tuned to get the best fit. Details about this are available in the notebook.
-
- ### 5 Conclusions and recommendations
+ 
+ ### 2 Project Scope:
 
  **1.We saw that a high percentage of Android users have churned compared to iPhone users. The company might want to look at their Android app to figure out why Android users are not as active as Iphone users.**
 
