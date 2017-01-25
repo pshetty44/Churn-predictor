@@ -60,5 +60,5 @@ Naive Bayes             | 0.65 | 0.70 | 0.76
 
  **Random Forest and SVM(Support Vector Machines) have the best result. We chose Ramdomforest since it is faster and will perform better with larger datasets.**
 The parameters of randomforest algorithm was tuned to get the best fit. Details about this are available in the notebook.
- 
- ### 2 Project Scope:
+
+# 5 Conclusions
