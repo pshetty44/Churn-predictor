@@ -44,3 +44,8 @@ As per the chart, **a high percentage of Android users have churned.** The compa
 </p>
 
 **King's Landing City has the highest ratio of active users compared to any other city.**
+
+
+### 4 The model:
+Several features were dropped due to various reason like correlation between features, leakage and due to the usage of dummy variables. Please refer to details in the notebook.
+The selected features were run on different algorithms like logistic, random forest, SVM and Naive Bayes. The best model was selected based on metrics like accuracy, precision and recall and performance.
