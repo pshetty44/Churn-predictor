@@ -59,13 +59,6 @@ Naive Bayes             | 0.65 | 0.70 | 0.76
 
 
  **Random Forest and SVM(Support Vector Machines) have the best result. We chose Ramdomforest since it is faster and will perform better with larger datasets.**
+The parameters of randomforest algorithm was tuned to get the best fit. Details about this are available in the notebook.
  
  ### 2 Project Scope:
-
- **1.We saw that a high percentage of Android users have churned compared to iPhone users. The company might want to look at their Android app to figure out why Android users are not as active as Iphone users.**
-
-**2.The company should look at the number of trips taken in the first 30 days by the customer. If the number of trips average at 3.3 and higher, there is a good chance that this user will be an active user. This feature allows us the company to predict if a customer will churn or not in the future.**
-
-**3.The active users tend to use the luxury car more than inactive users. The company can focus more can luxury car services and see if it improves retention.**
-
-**4.King's landing city has a higher ratio of active users. The company should look at the reasons and figure out if the same active users ratio can be increased in the other 2 cities.**
