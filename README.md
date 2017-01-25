@@ -1,4 +1,4 @@
-#### *Company information and data has not been disclosed. However the code for this project including exploratory analysis and final recommendations for the company are included. For code and detailed analysis of the dataset refer to churn.ipynb or churn.html*
+#### *Company information and data has not been disclosed. However the code for this project including exploratory data analysis and final recommendations for the company are included. For code and detailed analysis of the dataset refer to churn.ipynb or churn.html*
 
 
 ### 1 Motivation:
