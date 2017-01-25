@@ -51,7 +51,6 @@ Several features were dropped due to various reason like correlation between fea
 The selected features were run on different algorithms like logistic, random forest, SVM and Naive Bayes. The best model was selected based on metrics like accuracy, precision and recall and performance.
 
 Model       | Accuracy           | Precision  | Recall
-------------- |:-------------:| -----:|:-------
 Logistic regression     | 0.72 | 0.74 | 0.85
 **Random Forest         | 0.76 | 0.80 | 0.82**
 SVM                     | 0.76 | 0.79 | 0.85
