@@ -51,19 +51,11 @@ Several features were dropped due to various reason like correlation between fea
 The selected features were run on different algorithms like logistic, random forest, SVM and Naive Bayes. The best model was selected based on metrics like accuracy, precision and recall and performance.
 
 Model       | Accuracy           | Precision  | Recall
+------------- |:-------------:| -----:|:-------
 Logistic regression     | 0.72 | 0.74 | 0.85
 **Random Forest         | 0.76 | 0.80 | 0.82**
 SVM                     | 0.76 | 0.79 | 0.85
 Naive Bayes             | 0.65 | 0.70 | 0.76
-
-
-|             |          Spanning Header (Two Cells)           ||
-Header 1 | Header  2| Header 2 |
- ------------ | :-----------: | -----------: |
-Content 1      |          *Spanning Cell*        ||
-Content  2     |   **Cell Bold**    |         Cell |
-New section   |     More      |         Data |
-And more      |            And more          |
 
 
  **Random Forest and SVM(Support Vector Machines) have the best result. We chose Ramdomforest since it is faster and will perform better with larger datasets.**
