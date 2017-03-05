@@ -65,7 +65,7 @@ The parameters of randomforest algorithm was tuned to get the best fit. Details 
 
 **1.We saw that a high percentage of Android users have churned compared to iPhone users. The company might want to look at their Android app to figure out why Android users are not as active as Iphone users.**
 
-**2.The company should look at the number of trips taken in the first 30 days by the customer. If the number of trips average at 3.3 and higher, there is a good chance that this user will be an active user. This feature allows us the company to predict if a customer will churn or not in the future.**
+**2.The company should look at the number of trips taken in the first 30 days by the customer. If the number of trips average at 3.3 and higher, there is a good chance that this user will continue to be active. This feature allows the company to predict if a customer will churn or not in the future.**
 
 **3.The active users tend to use the luxury car more than inactive users. The company can focus more can luxury car services and see if it improves retention.**
 
